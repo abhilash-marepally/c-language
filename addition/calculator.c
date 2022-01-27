@@ -38,6 +38,7 @@ int main()
         result = num1 % num2;
     }
 
+
     printf("The %s of num1 and num2 is %d ", operation, result);
     return 0;
 }
