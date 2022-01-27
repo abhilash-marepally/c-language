@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642410077 source:d:\codeblockprograms\addition\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643309069 source:d:\codeblockprograms\addition\calculator.c
+	<stdio.h>
+	<stdlib.h>
+
